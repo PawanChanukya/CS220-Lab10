@@ -1,2 +1,2 @@
 # CS220-Lab10
-Constructing a MIPS processor
+This work is an assignment done by our team during CS220 course Lab 10.
